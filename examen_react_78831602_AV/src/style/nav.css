@@ -1,0 +1,18 @@
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    text-decoration: underline;
+    color: #52bed7;
+}
+.active{
+    font-weight: bold;
+    color:#52bed7
+}
+.footer{
+    color: white;
+}
+.footer:hover{
+    text-decoration: underline;
+    color: #52bed7;
+}
